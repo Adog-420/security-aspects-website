@@ -1,0 +1,90 @@
+header {
+    background-color: rgb(0, 123, 167);
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+    width: 100%;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background: rgb(242, 242, 242);
+}
+
+h3 {
+    font-family:'Verdana, Geneva, Tahoma, sans-serif'
+}
+
+.malwareImage { 
+    width: 350px; 
+    float: left; 
+    margin-right: 10px; 
+
+}
+
+.hackingImg {
+    width: 350px; 
+    float: left; 
+    margin-right: 10px;
+}
+
+.virusImg {
+    width: 350px; 
+    float: left; 
+    margin-right: 10px;
+}
+
+.spywareImg {
+    width: 350px; 
+    float: left; 
+    margin-right: 10px;
+}
+
+.DoSImg {
+    width: 350px; 
+    float: left; 
+    margin-right: 10px;
+}
+
+.shieldImg { 
+    float: right; 
+    margin-left: 10px;
+    position: relative; top: -80px; left: -50px;
+}
+
+header h1{
+    color: rgb(255, 255, 255);
+    border: 5px solid rgb(255, 255, 255);
+    padding: 7px 12px;
+    display: inline-block;
+}
+
+article p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+prevention p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: left;
+}
+
+prevention li{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: left;
+}
+
+main{
+    text-align: center;
+    max-width: 100%;
+    width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+    box-sizing: border-box;
+  }
