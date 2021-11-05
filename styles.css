@@ -1,3 +1,5 @@
+
+
 header {
     background-color: rgb(0, 123, 167);
     padding: 20px;
@@ -88,3 +90,27 @@ main{
     padding: 0 40px;
     box-sizing: border-box;
   }
+
+.DoSImg:hover {
+    transform: scale(1.05);
+}
+
+.malwareImage:hover {
+    transform: scale(1.05);
+}
+
+.hackingImg:hover {
+    transform: scale(1.05);
+}
+
+.spywareImg:hover {
+    transform: scale(1.05);
+}
+
+.virusImg:hover {
+    transform: scale(1.05);
+}
+
+.shieldImg:hover {
+    transform: scale(1.05);
+} 
